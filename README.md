@@ -13,7 +13,7 @@ In particular, i like to experience new technologies and learn new programing la
 
 <p align="center" >
   <a href="https://github.com/elifsudee%22%3E 
-    <img height="160px" alt="elif sude sutcu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kubraay25&show_icons=true&hide_border=true&theme=radical%22/%3E
+    <img height="160px" alt="elif sude sutcu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elifsudee&show_icons=true&hide_border=true&theme=radical%22/%3E
     <img height="160px" alt="elif sude sutcu's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifsudee&layout=compact&hide_border=true&theme=radical" />
   </a>
 </p>
