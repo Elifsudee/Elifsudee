@@ -1,4 +1,6 @@
-# 💫 About Me:
+<marquee direction=right>FULL STACK AUTOMATION ENGINEER</marquee>
+<hr>
+# 💫 About Me: ELIF SUDE SUTCU <br>
 I have knowledge of testing Manual, UI and Backend. I have the knowledge of   JIRA-Xray, UI testing over Java, Selenium Web Driver, JUNIT, TestNG and Cucumber. While doing backend tests, I can use API, SQL, JDBC, Postman. I also have the knowledge of Github. I have a solid understanding and skills in Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) within Agile/Scrum Methodology.
 
 
